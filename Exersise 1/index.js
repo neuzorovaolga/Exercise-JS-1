@@ -1,5 +1,5 @@
 ////// Task 1
-
+//какой то комментарий
 
 const userNumber = prompt("Enter a number from 0 to 5");
 
